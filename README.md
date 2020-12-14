@@ -29,12 +29,12 @@ Tensorflow-GPU, Keras Environment for RTX 2080Ti
 [CUDA 10.0.0 링크](https://developer.nvidia.com/cuda-10.0-download-archive)
 [CUDA Archive](https://developer.nvidia.com/cuda-toolkit-archive)
 
-CUDA를 다운로드 받을때에는 자신의 운영체제에 맞게끔 설정을 해주고 다운로드 해주어야 한다. 해당 글에서는 Ubuntu 18.04버전에 맞게끔 설정을 하여 다운로드 해주었다.다운로드는 아래 사진과 같이 자신의 환경을 맞춰주고 난 후 나오는 다운로드 버튼을 눌러주면 된다.<br>
-![Download](/img/1.png)
-Download 디렉토리에 다음과 같이 파일이 다운로드된것을 볼 수 있다.<br>
-![Check](/img/2.png)
-터미널에 들어가서 Download 디렉토리로 들어가자.<br>
-![Check2](/img/3.png)
+CUDA를 다운로드 받을때에는 자신의 운영체제에 맞게끔 설정을 해주고 다운로드 해주어야 한다. 해당 글에서는 Ubuntu 18.04버전에 맞게끔 설정을 하여 다운로드 해주었다.다운로드는 아래 사진과 같이 자신의 환경을 맞춰주고 난 후 나오는 다운로드 버튼을 눌러주면 된다.
+![Download](/img/1.png)<br>
+Download 디렉토리에 다음과 같이 파일이 다운로드된것을 볼 수 있다.
+![Check](/img/2.png)<br>
+터미널에 들어가서 Download 디렉토리로 들어가자.
+![Check2](/img/3.png)<br>
 
 우리가 CUDA파일을 다운로드 받을때 Base Installer 이라고 되어있는 부분이 있을것이다.
 
