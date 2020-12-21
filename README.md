@@ -1,4 +1,4 @@
-Make GPU Environment with 2080ti SLI : Tensorflow and Keras
+Build Machine Learning GPU Environment with 2080ti SLI : Tensorflow and Keras
 ---
 ***
 ##### Operating System : Linux Ubuntu 18.04
